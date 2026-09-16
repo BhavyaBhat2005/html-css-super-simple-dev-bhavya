@@ -1,0 +1,5 @@
+HTML & CSS Notes by Bhavya Bhat
+
+HTML stands for Hypertext Markup Language. It is not a programming language as it is not based on logical code, but a scripting langugage. Using HTML people can create websites and web applications.
+
+Syntax are the rules for writting code, and essentially the "grammar for code".
