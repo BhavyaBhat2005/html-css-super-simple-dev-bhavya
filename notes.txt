@@ -2,4 +2,14 @@ HTML & CSS Notes by Bhavya Bhat
 
 HTML stands for Hypertext Markup Language. It is not a programming language as it is not based on logical code, but a scripting langugage. Using HTML people can create websites and web applications.
 
-Syntax are the rules for writting code, and essentially the "grammar for code".
+Syntax are the rules for writting code, and essentially the "grammar for code". If syntax rules are not followed, then the computer will not understand your code. 
+
+Extra spaces are always ignored in HTML.
+
+HTML TAGS
+
+- All tags have an opening and closing tag. 
+
+- The <a> is an anchor tag used to attach a link when you wish for a user to be directed to another website or link. For example, directing a user to a form for event registration. 
+
+
