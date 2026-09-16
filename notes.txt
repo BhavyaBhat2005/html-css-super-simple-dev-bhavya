@@ -11,5 +11,7 @@ HTML TAGS
 - All tags have an opening and closing tag. 
 
 - The <a> is an anchor tag used to attach a link when you wish for a user to be directed to another website or link. For example, directing a user to a form for event registration. 
+- The "target" can be used to define the links activity. "_blank" to open in new tab.
 
+CSS 
 
